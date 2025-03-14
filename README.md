@@ -48,7 +48,7 @@ I'm a passionate web developer focused on creating elegant, efficient, and user-
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iweisc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Iweisc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🔄 Activity

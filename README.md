@@ -48,7 +48,7 @@ I'm a passionate web developer focused on creating elegant, efficient, and user-
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Iweisc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ruddy-rho.vercel.app?user=Iweisc&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
 ## 🔄 Activity

@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate web developer focused on creating elegant, efficient, and user-friendly applications. With a strong foundation in modern web technologies, I enjoy solving complex problems and bringing creative ideas to life.
+I'm a  web developer focused on creating elegant, efficient, and user-friendly applications. With a strong foundation in modern web technologies, I enjoy solving complex problems and bringing creative ideas to life.
 
 <div align="center">
   <img height="180" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />

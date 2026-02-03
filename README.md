@@ -112,5 +112,5 @@
 ---
 
 <p align="center">
-  <em>"Time is money" — Benjamin Franklin</em>
+  <em>"Time is money" - Benjamin Franklin</em>
 </p>

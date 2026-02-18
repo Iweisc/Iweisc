@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>I build things from first principles. Operating systems, compilers, AI tools.<br>From bootloader assembly to browser-based ML.</em>
+  <em>I build things from first principles. Operating systems, parsers, infrastructure.<br>From bootloader assembly to production proxies.</em>
 </p>
 
 ---
@@ -16,45 +16,35 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">SertOS</h3>
       <p align="center">
         <a href="https://github.com/Iweisc/sertos">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-          <img src="https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly">
+          <img src="https://img.shields.io/badge/x86__64-000000?style=flat-square&logo=intel&logoColor=white" alt="x86_64">
         </a>
       </p>
-      <p align="center">Hobby OS from scratch. UEFI boot, custom filesystem (SertFS), 18 shell commands, userspace with ELF loading.</p>
+      <p align="center">Hobby OS from scratch. SMP, preemptive multitasking, USB (UHCI/OHCI/EHCI/XHCI), HD Audio, GPU accel, ASLR, 77+ syscalls, dynamic linking, ELF userspace.</p>
     </td>
-    <td width="50%">
-      <h3 align="center">IOC</h3>
+    <td width="33%">
+      <h3 align="center">jbin</h3>
       <p align="center">
-        <a href="https://github.com/Iweisc/ioc">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-          <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WASM">
+        <a href="https://github.com/Iweisc/jbin">
+          <img src="https://img.shields.io/badge/C11-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+          <img src="https://img.shields.io/badge/AVX2-000000?style=flat-square&logo=amd&logoColor=white" alt="AVX2">
         </a>
       </p>
-      <p align="center">Compiled language for safe data processing. Guaranteed termination, compiles to JS/WASM. Run untrusted code safely.</p>
+      <p align="center">High-performance JSON parser. AVX2/PCLMUL structural indexing, zero-copy strings, freestanding. 18/18 wins against simdjson (icelake) using only AVX2.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Verisum</h3>
+    <td width="33%">
+      <h3 align="center">pxbin</h3>
       <p align="center">
-        <a href="https://github.com/Iweisc/verisum">
-          <img src="https://img.shields.io/badge/Preact-673AB8?style=flat-square&logo=preact&logoColor=white" alt="Preact">
-          <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome">
+        <a href="https://github.com/Iweisc/pxbin">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
         </a>
       </p>
-      <p align="center">Chrome extension for AI-powered Q&A with cited sources. In-browser ML, semantic search, source verification.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">RAHM</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Physics-000000?style=flat-square" alt="Physics">
-        <img src="https://img.shields.io/badge/Research-000000?style=flat-square" alt="Research">
-      </p>
-      <p align="center">GA-discovered formula for galaxy rotation curves. Beats MOND by 31% on SPARC data. Private research.</p>
+      <p align="center">LLM protocol translation proxy. Bidirectional Anthropic/OpenAI streaming, circuit breakers, Prometheus metrics, AES-256-GCM key encryption, React dashboard.</p>
     </td>
   </tr>
 </table>
@@ -64,15 +54,17 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/x86__64-000000?style=for-the-badge&logo=intel&logoColor=white" alt="x86_64">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim">

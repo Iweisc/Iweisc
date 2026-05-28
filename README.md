@@ -2,8 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/Iweisc"><img src="https://img.shields.io/badge/GitHub-Iweisc-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://twitter.com/coderzawad"><img src="https://img.shields.io/badge/X-@coderzawad-000000?style=flat-square&logo=x" alt="X"></a>
-  <a href="mailto:coderzawad@gmail.com"><img src="https://img.shields.io/badge/Email-coderzawad-000000?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
 
 <p align="center">

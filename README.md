@@ -2,11 +2,11 @@
 
 Backend and full-stack engineer in Bangladesh, building developer tools in Go and TypeScript.
 
-I currently work on BugReels, a pre-launch debugging product that combines browser session capture, event-driven processing, replay, and evidence-backed software investigations.
+I currently lead the clean rewrite of [BugReels](https://github.com/Iweisc/bugreels-case-study), a pre-launch debugging product that combines browser session capture, event-driven processing, replay, and evidence-backed software investigations.
 
 ## Selected work
 
-- **[BugReels SDK](https://www.npmjs.com/package/@bugreels/web-script)** — Published browser SDK with dual ESM/CJS packaging and 651 passing tests, plus Go ingestion and processing services, RabbitMQ, PostgreSQL/MinIO storage, a Next.js replay UI, and sandboxed investigation workflows.
+- **[BugReels case study](https://github.com/Iweisc/bugreels-case-study)** — Architecture, a synthetic end-to-end demo, and the engineering decisions behind the browser SDK, Go services, RabbitMQ pipeline, PostgreSQL/MinIO storage, replay UI, and sandboxed investigation workflow. The [SDK is published on npm](https://www.npmjs.com/package/@bugreels/web-script).
 - **[Grepiku](https://github.com/Iweisc/grepiku)** — Stateful GitHub pull-request review bot with repository indexing, finding lifecycle tracking, in-thread commands, and sandboxed verification.
 - **[Needle](https://github.com/Iweisc/needle-mcp)** — MCP server that answers library questions from source evidence with validated citations and optional snippet execution.
 - **[jbin](https://github.com/Iweisc/jbin)** — Freestanding C11 JSON parser using AVX2 structural indexing, zero-copy strings, and a fixed-size arena.

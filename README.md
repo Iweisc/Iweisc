@@ -17,4 +17,4 @@ I currently work on BugReels, a pre-launch debugging product that combines brows
 
 Go · TypeScript · PostgreSQL · distributed systems · browser instrumentation · SDK engineering · developer infrastructure
 
-Contact: sert@bugreels.com
+Contact: abdullah@bugreels.com
